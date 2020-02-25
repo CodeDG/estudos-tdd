@@ -12,7 +12,7 @@ class Fibonacci {
     static int v2(int n) {
         if (n == 0) return 0;
         if (n <= 2) return 1;
-        return 1;
+        return 2;
     }
 
     static int v3(int n) {
